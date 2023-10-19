@@ -1,4 +1,4 @@
-#Portfolio
+# Portfolio
 
 This is a short description of my background and experience on my journey to become a full stack developer.
 
@@ -19,3 +19,4 @@ Includes the following items
 This project was good exposure to HTML and advanced CSS implementation.  There is extensive use of flexboxes and other css functionalities. 
 
 ![Getting Started](./code-screenshot.png)
+
