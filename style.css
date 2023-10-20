@@ -22,14 +22,6 @@ header {
     align-items: center; 
 }
 
-.logo {
-    font-size: 32px;
-    text-decoration: none;
-    font-weight: bold;
-    margin-left: 100px;
-    margin-top: 20px;
-}
-
 nav a {
     font-size: 18px;
     border: #e0129c;
@@ -55,6 +47,9 @@ button:hover {
     background: #350b70;
 }
 
+span {
+    color: coral;
+}
 section {
     margin-right: 10px;
     
@@ -84,9 +79,23 @@ footer p {
 footer h3{
     color: deeppink;
 }
+
+.logo {
+    font-size: 32px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
 .hero {
     height: 70vh;
     display: flex;
+}
+
+.hero h1 {
+    font-size: 30px;
+    font-weight: 700px;
 }
 
 .child_1 {
@@ -106,6 +115,22 @@ margin: 200px;
     margin-right: 100px;
     border-block: 2px solid #e0129c;
 
+}
+
+.about {
+    border: 10px solid #288ec9;
+    border-left: 10px solid #288ec9;
+    background: rgb(11, 19, 19);
+    position: relative;
+    text-align: center;
+    margin-left: 300px;
+    padding: 50px;
+    width: 300px;
+    height: 200px;   
+}
+
+.about h1 {
+    color: rgb(34, 30, 247);
 }
 
 #emp {
@@ -136,14 +161,6 @@ margin: 200px;
     margin: 0;
     padding: 0;
 }
-.hero h1 {
-    font-size: 30px;
-    font-weight: 700px;
-}
-
-span {
-    color: coral;
-}
 
 #edu {
     border: 10px #e0129c;
@@ -173,21 +190,6 @@ span {
     color: brown;    
 }
 
-.about {
-    border: 10px solid #288ec9;
-    border-left: 10px solid #288ec9;
-    background: rgb(11, 19, 19);
-    position: relative;
-    text-align: center;
-    margin-left: 300px;
-    padding: 50px;
-    width: 300px;
-    height: 200px;   
-}
-
-.about h1 {
-    color: rgb(34, 30, 247);
-}
 
 
 #contactme {

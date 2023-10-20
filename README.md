@@ -1,7 +1,9 @@
 # Portfolio
 
+## User Story
 This is a short description of my background and experience on my journey to become a full stack developer.
 
+## Acceptance Criteria
 Includes the following items
     Home page
     About section
