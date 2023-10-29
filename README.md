@@ -20,5 +20,5 @@ Includes the following items
 
 This project was good exposure to HTML and advanced CSS implementation.  There is extensive use of flexboxes and other css functionalities. 
 
-![Getting Started](./code-screenshot.png)
+![Getting Started](./images/Screenshot%20(24).png)
 
